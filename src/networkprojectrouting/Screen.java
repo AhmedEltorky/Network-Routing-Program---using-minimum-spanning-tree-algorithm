@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ENG-TORKY
+ * @author Ahmed El-Torky
  */
 public class Screen {
 

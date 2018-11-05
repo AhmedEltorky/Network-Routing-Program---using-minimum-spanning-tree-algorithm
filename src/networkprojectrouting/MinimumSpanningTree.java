@@ -2,7 +2,7 @@ package networkprojectrouting;
 
 /**
  *
- * @author ENG-TORKY
+ * @author Ahmed El-Torky
  */
 public class MinimumSpanningTree {
 
